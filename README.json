@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-04T05:38:40Z",
+            "last_commit": "2026-02-07T23:36:35Z",
             "owner": "whonore",
             "repo": "Coqtail",
             "stars": 314
@@ -296,7 +296,7 @@
             "last_commit": "2025-08-17T10:53:12Z",
             "owner": "lamg",
             "repo": "tree-sitter-rocq",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -1089,7 +1089,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-02-07T04:11:46Z",
+            "last_commit": "2026-02-07T08:22:04Z",
             "owner": "coq-community",
             "repo": "coq-dpdgraph",
             "stars": 97
@@ -1332,7 +1332,7 @@
             "last_commit": "2026-02-06T17:33:10Z",
             "owner": "rems-project",
             "repo": "sail",
-            "stars": 838
+            "stars": 839
           }
         },
         {
@@ -1374,7 +1374,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rocq Prover",
-            "last_commit": "2026-02-07T06:49:02Z",
+            "last_commit": "2026-02-07T19:07:35Z",
             "owner": "math-comp",
             "repo": "analysis",
             "stars": 235
@@ -1833,10 +1833,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-02-06T15:15:11Z",
+            "last_commit": "2026-02-07T12:15:34Z",
             "owner": "coq",
             "repo": "coq",
-            "stars": 5344
+            "stars": 5346
           }
         },
         {
@@ -2205,10 +2205,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:16:15.617Z",
+    "last_updated": "2026-02-08T04:33:51.691Z",
     "original_repository": "coq-community/awesome-coq",
     "source_repository": "v1nvn/enhansome-coq",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Coq with stars"
   }
 }

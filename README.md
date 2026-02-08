@@ -53,12 +53,12 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 * [VsCoq](https://github.com/coq-community/vscoq) ⭐ 432 | 🐛 180 | 🌐 OCaml | 📅 2025-12-10 - Language server and extension for the Visual Studio Code and VSCodium editors.
 * [VsCoq Legacy](https://github.com/coq-community/vscoq/tree/vscoq1) ⭐ 432 | 🐛 180 | 🌐 OCaml | 📅 2025-12-10 - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 * [Company-Coq](https://github.com/cpitclaudel/company-coq) ⭐ 359 | 🐛 103 | 🌐 Emacs Lisp | 📅 2025-08-17 - IDE extensions for Proof General's Coq mode.
-* [Coqtail](https://github.com/whonore/Coqtail) ⭐ 314 | 🐛 39 | 🌐 Python | 📅 2026-02-04 - Interface for Coq based on the Vim text editor.
+* [Coqtail](https://github.com/whonore/Coqtail) ⭐ 314 | 🐛 37 | 🌐 Python | 📅 2026-02-07 - Interface for Coq based on the Vim text editor.
 * [Coq LSP](https://github.com/ejgallego/coq-lsp) ⭐ 197 | 🐛 142 | 🌐 OCaml | 📅 2026-02-04 - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
 * [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) ⭐ 95 | 🐛 15 | 🌐 Python | 📅 2024-09-03 - Coq support for the Jupyter Notebook web environment.
 * [Waterproof editor](https://github.com/impermeable/waterproof) ⭐ 44 | 🐛 32 | 🌐 JavaScript | 📅 2024-03-19 - Educational environment for writing mathematical proofs in interactive notebooks.
 * [opam-switch-mode](https://github.com/ProofGeneral/opam-switch-mode) ⭐ 9 | 🐛 1 | 🌐 Emacs Lisp | 📅 2023-08-02 - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
-* [Tree Sitter Rocq](https://github.com/lamg/tree-sitter-rocq) ⭐ 2 | 🐛 0 | 🌐 Rocq Prover | 📅 2025-08-17 - Partial Rocq tree-sitter grammar useful for syntax highlighting in text editors like [Helix](https://github.com/helix-editor/helix) ⭐ 42,807 | 🐛 1,422 | 🌐 Rust | 📅 2026-02-05, but not recommended for full parsing of Rocq code.
+* [Tree Sitter Rocq](https://github.com/lamg/tree-sitter-rocq) ⭐ 3 | 🐛 0 | 🌐 Rocq Prover | 📅 2025-08-17 - Partial Rocq tree-sitter grammar useful for syntax highlighting in text editors like [Helix](https://github.com/helix-editor/helix) ⭐ 42,824 | 🐛 1,423 | 🌐 Rust | 📅 2026-02-05, but not recommended for full parsing of Rocq code.
 * [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
 * [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
 
@@ -139,9 +139,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Tools
 
-* [Sail](https://github.com/rems-project/sail) ⭐ 838 | 🐛 288 | 🌐 Sail | 📅 2026-02-06 - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
+* [Sail](https://github.com/rems-project/sail) ⭐ 839 | 🐛 288 | 🌐 Sail | 📅 2026-02-06 - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
 * [Cosette](https://github.com/uwdb/Cosette) ⭐ 682 | 🐛 28 | 🌐 Lean | 📅 2024-12-18 - Automated solver for reasoning about SQL query equivalences.
-* [Ott](https://github.com/ott-lang/ott) ⭐ 401 | 🐛 36 | 🌐 OCaml | 📅 2026-01-15 - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+* [Ott](https://github.com/ott-lang/ott) ⭐ 401 | 🐛 37 | 🌐 OCaml | 📅 2026-01-15 - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
 * [Alectryon](https://github.com/cpitclaudel/alectryon) ⭐ 284 | 🐛 40 | 🌐 HTML | 📅 2025-09-15 - Collection of tools for writing technical documents that mix Coq code and prose.
 * [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) ⭐ 270 | 🐛 18 | 🌐 OCaml | 📅 2024-08-05 - Tool for generating idiomatic Coq from OCaml code.
 * [SerAPI](https://github.com/ejgallego/coq-serapi) ⭐ 137 | 🐛 2 | 🌐 Coq | 📅 2025-11-27 - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
@@ -214,7 +214,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Community
 
-* [Official Coq wiki](https://github.com/coq/coq/wiki) ⭐ 5,344 | 🐛 2,594 | 🌐 OCaml | 📅 2026-02-06
+* [Official Coq wiki](https://github.com/coq/coq/wiki) ⭐ 5,346 | 🐛 2,595 | 🌐 OCaml | 📅 2026-02-07
 * [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) ⭐ 667 | 🐛 160 | 🌐 Rocq Prover | 📅 2026-02-04
 * [Coq-community package maintenance project](https://github.com/coq-community/manifesto) ⭐ 68 | 🐛 37 | 📅 2025-03-31
 * [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems) ⭐ 61 | 🐛 4 | 🌐 HTML | 📅 2025-11-26
